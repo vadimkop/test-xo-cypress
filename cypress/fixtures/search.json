@@ -1,0 +1,11 @@
+{
+  "from": "#leg-1-from",
+  "to": "#leg-1-to",
+  "nearby": "#UDYZ",
+  "from_airport": ":nth-child(1) > ._5R",
+  "list_to": "#LPPT",
+  "to_airport": ":nth-child(2) > ._5R",
+  "class_heavy": "button:nth-child(5)",
+  "selected_class": "._Dg",
+  "present_day": "button._CT._ET"
+}

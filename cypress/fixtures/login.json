@@ -1,0 +1,7 @@
+{
+    "modal_login": "#modal-header",
+    "email": "#field-email",
+    "password": "#field-password",
+    "button": ".login__button",
+    "error": ".login__error"
+}
